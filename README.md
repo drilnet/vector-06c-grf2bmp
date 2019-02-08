@@ -43,3 +43,13 @@
     grf2bmp.exe - Исполняемый файл для Windows (файл GRF в BMP).
     grf2bmp.pl  - Скрипт на Perl (файл GRF в BMP)
 
+**Скриншоты работы программы grf2bmp**:
+
+![](https://github.com/drilnet/vector-06c-grf2bmp/blob/master/grf2bmp_Screenshot_1.png)
+
+![](https://github.com/drilnet/vector-06c-grf2bmp/blob/master/grf2bmp_Screenshot_2.png)
+
+**Результат работы программы grf2bmp**:
+
+![](https://github.com/drilnet/vector-06c-grf2bmp/blob/master/SRC%20C%20-%20FreeBSD%2C%20Linux/Test/TEST.bmp)
+
