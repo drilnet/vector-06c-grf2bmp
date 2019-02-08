@@ -53,3 +53,11 @@
 
 ![](https://github.com/drilnet/vector-06c-grf2bmp/blob/master/SRC%20C%20-%20FreeBSD%2C%20Linux/Test/TEST.bmp)
 
+Вот ещё:
+
+![](https://github.com/drilnet/vector-06c-grf2bmp/blob/master/SRC%20C%20-%20FreeBSD%2C%20Linux/Test/TEST2.bmp)
+
+Это изображение контроллера электронного/гибкого диска **Харьковский вариант**.
+Этот вариант полностью совместим с **Кишиневским**!
+
+ 
