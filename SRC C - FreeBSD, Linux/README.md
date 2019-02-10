@@ -1,3 +1,5 @@
+![](https://github.com/drilnet/vector-06c-grf2bmp/blob/master/UA.png)
+
 Написано на Си в [FreeBSD](https://www.freebsd.org/ru/)!
 
 **Исходники**:
