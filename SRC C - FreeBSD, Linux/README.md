@@ -25,23 +25,23 @@
 
 **Как скомпилировать исполняемый файл в FreeBSD или Linux!**
  
-       Действие 1. Создаём объектные файлы.
-       $ gcc -c grf2bmp.c LoadGRF.c UnpackingGRF.c CodeConversion.c GetRGB.c SaveBMP.c
+    Действие 1. Создаём объектные файлы.
+    $ gcc -c grf2bmp.c LoadGRF.c UnpackingGRF.c CodeConversion.c GetRGB.c SaveBMP.c
 
-       Действие 2. Линковка объектных файлов.
-       $ gcc grf2bmp.o LoadGRF.o UnpackingGRF.o CodeConversion.o GetRGB.o SaveBMP.o -o grf2bmp
+    Действие 2. Линковка объектных файлов.
+    $ gcc grf2bmp.o LoadGRF.o UnpackingGRF.o CodeConversion.o GetRGB.o SaveBMP.o -o grf2bmp
 
-       На выходе исполняемый файл grf2bmp
+    На выходе исполняемый файл grf2bmp
 
 **Как скомпилировать исполняемый файл в FreeBSD или Linux для Windows!**
 
-       Действие 1. Создаём объектные файлы.
-       $ mingw32-gcc -c grf2bmp.c LoadGRF.c UnpackingGRF.c CodeConversion.c GetRGB.c SaveBMP.c
+    Действие 1. Создаём объектные файлы.
+    $ mingw32-gcc -c grf2bmp.c LoadGRF.c UnpackingGRF.c CodeConversion.c GetRGB.c SaveBMP.c
 
-       Действие 2. Линковка объектных файлов.
-       $ mingw32-gcc grf2bmp.o LoadGRF.o UnpackingGRF.o CodeConversion.o GetRGB.o SaveBMP.o -o grf2bmp.exe
+    Действие 2. Линковка объектных файлов.
+    $ mingw32-gcc grf2bmp.o LoadGRF.o UnpackingGRF.o CodeConversion.o GetRGB.o SaveBMP.o -o grf2bmp.exe
 
-       На выходе исполняемый файл grf2bmp.exe
+    На выходе исполняемый файл grf2bmp.exe
 
 **Perl**:
 
@@ -53,9 +53,9 @@
     Каталог Perl в "SRC - Windows" - отсутствует.
 
 **Тестовые изображения**:
-
+```
     ---
     | Каталог Test
     ---
-
+```
     Ukraine. (C) Демидов С.В.
