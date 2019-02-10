@@ -99,11 +99,14 @@
 <br>
 **Репозиторий:** [Blender 3D. Модель мотора (motor).](https://github.com/drilnet/blender3d-motor)
 <br>
-**Репозиторий:** [Скрипт который подписывает цифровые фотографии.](https://github.com/drilnet/programming-perl-signature-images)
+**Репозиторий:** [Скрипт, который подписывает цифровые фотографии.](https://github.com/drilnet/programming-perl-signature-images)
+<br>
 <br>
 **Репозиторий:** [Вектор-06Ц. Ожившее кино.](https://github.com/drilnet/vector-06c-kino)
 <br>
 **Репозиторий:** [Вектор-06Ц. Конвертер графических файлов SPR в BMP.](https://github.com/drilnet/vector-06c-spr2bmp)
+<br>
+**Репозиторий:** [Скрипт, который показывает все цвета Вектор'а-06Ц.](https://github.com/drilnet/vector-06c-color256)
 
 <hr>
 
