@@ -7,7 +7,7 @@
 
 **GRF** - графический формат файлов [**Вектор'а-06Ц**](https://ru.wikipedia.org/wiki/Вектор-06Ц) ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц)).
 <br>
-**BMP** - графический формат файлов [**Windows**](https://www.microsoft.com).
+**BMP** - графический формат файлов **Windows**.
 
 Что содержит репозиторий.
 
@@ -61,7 +61,7 @@
 
 <hr>
 
-Различные сообщества (**ZX Spectrum**, **Вектор-06Ц**, **Специалист** и др.) живут [здесь](https://zx-pk.ru/).
+Различные сообщества ([**ZX Spectrum**](https://ru.wikipedia.org/wiki/ZX_Spectrum) ([UKR](https://uk.wikipedia.org/wiki/ZX_Spectrum)), [**Вектор'а-06Ц**](https://ru.wikipedia.org/wiki/Вектор-06Ц) ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц)), [**Специалист**](https://ru.wikipedia.org/wiki/Специалист_(компьютер)) и др.) живут [здесь](https://zx-pk.ru/).
 
 <hr>
 
@@ -69,7 +69,7 @@
 
 ![](https://github.com/drilnet/vector-06c-grf2bmp/blob/master/SRC%20C%20-%20FreeBSD%2C%20Linux/Test/TEST2.bmp)
 
-Это изображение контроллера электронного/гибкого диска для **Вектор'а-06Ц**.
+Это изображение контроллера электронного/гибкого диска для [**Вектор'а-06Ц**](https://ru.wikipedia.org/wiki/Вектор-06Ц) ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц)).
 <br>
 **Харьковский вариант**, автор **Терентьев С.В.**
 <br>
