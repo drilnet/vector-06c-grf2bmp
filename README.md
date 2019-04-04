@@ -112,6 +112,10 @@
 
 <hr>
 
+**Файловый архив автора:** [https://drilnet.github.io/downloads/](https://drilnet.github.io/downloads/)
+
+<hr>
+
 **Полезные ссылки:**
 
 [Правила оформления файла README.MD на GITHUB](https://github.com/OlgaVlasova/markdown-doc/blob/master/README.md#SpecialSymbol)
