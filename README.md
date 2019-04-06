@@ -110,6 +110,9 @@
 **Репозиторий:** [Вектор-06Ц. Конвертер графических файлов SPR в BMP.](https://github.com/drilnet/vector-06c-spr2bmp)
 <br>
 **Репозиторий:** [Скрипт, который показывает все цвета Вектор'а-06Ц.](https://github.com/drilnet/vector-06c-color256)
+<br>
+<br>
+**Репозиторий:** [RLE кодирование своими руками (RLE8).](https://github.com/drilnet/rle)
 
 <hr>
 
