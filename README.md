@@ -110,6 +110,8 @@
 <br>
 **Репозиторий:** [Blender 3D. Модель мотора (motor).](https://github.com/drilnet/blender3d-motor)
 <br>
+**Репозиторий:** [Blender 3D. Символика Украины (Флаг, Герб).](https://github.com/drilnet/blender3d-ukrainian-symbols)
+<br>
 **Репозиторий:** [Скрипт, который подписывает цифровые фотографии.](https://github.com/drilnet/programming-perl-signature-images)
 <br>
 <br>
