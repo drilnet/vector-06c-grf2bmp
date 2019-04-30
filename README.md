@@ -53,7 +53,7 @@
 
 ![](https://github.com/drilnet/vector-06c-grf2bmp/blob/master/SRC%20C%20-%20FreeBSD%2C%20Linux/Test/TEST.bmp)
 
-Примечание.
+**Примечание**.
 <br>
 Это самое лучшее изображение, которое у меня было.
 <br>
