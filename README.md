@@ -39,9 +39,9 @@
 
 **Испоняемые файлы**:
 
-    grf2bmp     - Исполняемый файл для FreeBSD (файл GRF в BMP).
-    grf2bmp.exe - Исполняемый файл для Windows (файл GRF в BMP).
-    grf2bmp.pl  - Скрипт на Perl (файл GRF в BMP)
+    grf2bmp     - Исполняемый файл для FreeBSD (GRF-файл в BMP-файл).
+    grf2bmp.exe - Исполняемый файл для Windows (GRF-файл в BMP-файл).
+    grf2bmp.pl  - Скрипт на Perl (GRF-файл в BMP-файл)
 
 **Скриншоты работы программы grf2bmp**:
 
