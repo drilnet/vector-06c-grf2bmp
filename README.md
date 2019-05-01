@@ -21,7 +21,7 @@
 Смотрите каталоги [SRC C - FreeBSD, Linux](https://github.com/drilnet/vector-06c-grf2bmp/tree/master/SRC%20C%20-%20FreeBSD%2C%20Linux) и [SRC C - Windows](https://github.com/drilnet/vector-06c-grf2bmp/tree/master/SRC%20C%20-%20Windows)
 внутри есть описание.
 
-**GRF файлы**:
+**GRF-файлы**:
 
     Файл: Graphics Files Vector-06C (GRF).7z
     Подборка GRF файлов (Внутри есть и BMP файлы).
