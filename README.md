@@ -127,7 +127,7 @@
 **Репозиторий:** [Скрипт, который показывает все цвета Вектор'а-06Ц.](https://github.com/drilnet/vector-06c-color256)
 <br>
 <br>
-**Репозиторий:** [RLE кодирование своими руками (vRLE8).](https://github.com/drilnet/rle)
+**Репозиторий:** [RLE кодирование своими руками (VRLE8).](https://github.com/drilnet/rle)
 
 <hr>
 
