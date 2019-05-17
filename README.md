@@ -25,7 +25,7 @@
 Смотрите каталоги [SRC C - FreeBSD, Linux](https://github.com/drilnet/vector-06c-grf2bmp/tree/master/SRC%20C%20-%20FreeBSD%2C%20Linux) и [SRC C - Windows](https://github.com/drilnet/vector-06c-grf2bmp/tree/master/SRC%20C%20-%20Windows)
 внутри есть описание.
 
-**GRF-файлы**:
+**GRF-файлы:**
 
     Файл: Graphics Files Vector-06C (GRF).7z
     Подборка GRF-файлов (внутри есть и BMP-файлы).
@@ -35,28 +35,28 @@
     Внутри этого архива также есть программа для просмотра GRF-файлов на
     Вектор'е-06Ц: программа VGRF.COM (для этой программы необходима МикроДОС Т-34).
 
-**Инфо по GRF** (эта информация есть в [Wiki](https://github.com/drilnet/vector-06c-grf2bmp/wiki)):
+**Инфо по GRF** (эта информация есть в [Wiki](https://github.com/drilnet/vector-06c-grf2bmp/wiki))**:**
 
     Файл: Info GRF.7z
     Как устроен GRF-файл, плюс программа распаковщик (на ассемблере, для Вектор'а-06Ц).
     
-**Исполняемые файлы**:
+**Исполняемые файлы:**
 
     grf2bmp     - Исполняемый файл для FreeBSD (GRF-файл в BMP-файл).
     grf2bmp.exe - Исполняемый файл для Windows (GRF-файл в BMP-файл).
     grf2bmp.pl  - Скрипт на Perl (GRF-файл в BMP-файл).
 
-**Скриншоты работы программы grf2bmp**:
+**Скриншоты работы программы grf2bmp:**
 
 ![](https://github.com/drilnet/vector-06c-grf2bmp/blob/master/grf2bmp_Screenshot_1.png)
 
 ![](https://github.com/drilnet/vector-06c-grf2bmp/blob/master/grf2bmp_Screenshot_2.png)
 
-**Результат работы программы grf2bmp**:
+**Результат работы программы grf2bmp:**
 
 ![](https://github.com/drilnet/vector-06c-grf2bmp/blob/master/SRC%20C%20-%20FreeBSD%2C%20Linux/Test/TEST.bmp)
 
-**Примечание**.
+**Примечание.**
 <br>
 Это самое лучшее изображение, которое у меня было.
 <br>
@@ -78,7 +78,7 @@
 <br>
 **XX век**, **90-е года**.
 
-**Примечание**.
+**Примечание.**
 <br>
 **Харьковский вариант** контроллера электронного/гибкого диска полностью совместим с **Кишиневским**!
 
