@@ -22,7 +22,7 @@
        |---
 ```
 
-[Посмотреть GIF-анимацию](https://github.com/drilnet/vector-06c-grf2bmp/blob/master/GIF%20-%20Bonus/Kharkov%20(People).gif) - эта гифка вынесена в [Wiki](https://github.com/drilnet/vector-06c-grf2bmp/wiki).
+[Посмотреть GIF-анимацию](https://github.com/drilnet/vector-06c-grf2bmp/blob/master/GIF%20-%20Bonus/Kharkov%20(People).gif) (эта гифка есть в [Wiki](https://github.com/drilnet/vector-06c-grf2bmp/wiki)).
 
     Каталог: 'SRC C - FreeBSD, Linux' - Исходники на Си.
     Каталог: 'SRC C - Windows'        - Исходники на Си.
