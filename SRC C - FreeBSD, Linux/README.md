@@ -60,4 +60,4 @@
     | Каталог Test
     ---
 
-Ukraine. (C) Демидов С.В.
+[Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (C) Демидов С.В.
