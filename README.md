@@ -101,7 +101,7 @@
 
 Дополнительная информация (как устроен **GRF**-файл): [Wiki](https://github.com/drilnet/vector-06c-grf2bmp/wiki).
 
- Украина. (**C**) Демидов С.В.
+ [Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
 
 <hr>
 
