@@ -25,7 +25,8 @@
 [Посмотреть GIF-анимацию](https://github.com/drilnet/vector-06c-grf2bmp/blob/master/GIF%20-%20Bonus/Kharkov%20(People).gif) (эта гифка есть в [Wiki](https://github.com/drilnet/vector-06c-grf2bmp/wiki)).
 <br>
 Данная **GIF**-анимация была сделана из **GRF**-файлов взятых с [Вектор'а-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц) ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц)).
-См. **GRF**-файлы.
+<br>
+См. **GRF**-файлы ниже.
 
     Каталог: 'SRC C - FreeBSD, Linux' - Исходники на Си.
     Каталог: 'SRC C - Windows'        - Исходники на Си.
