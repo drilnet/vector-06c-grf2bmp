@@ -13,7 +13,7 @@
 
 **Объектные файлы**:
 
-    CodeConversion.o - Объектные файлы.
+    CodeConversion.o - Объектный файл.
     GetRGB.o         - -/-
     LoadGRF.o        - -/-
     SaveBMP.o        - -/-
@@ -52,7 +52,7 @@
     ---
 
     Примечание.
-    Каталог Perl в "SRC - Windows" - отсутствует.
+    Каталог Perl в 'SRC - Windows' - отсутствует.
 
 **Тестовые изображения**:
 
