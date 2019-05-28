@@ -13,7 +13,7 @@
 
 **Объектные файлы**:
 
-    CodeConversion.o - Объектные файлы.
+    CodeConversion.o - Объектный файл.
     GetRGB.o         - -/-
     LoadGRF.o        - -/-
     SaveBMP.o        - -/-
