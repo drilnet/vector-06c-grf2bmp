@@ -9,7 +9,7 @@
 
 ![](https://github.com/drilnet/vector-06c-grf2bmp/blob/master/UA.png)
 
-**GRF** - графический формат файлов [Вектор'а-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц) ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц)).
+**GRF** - графический формат файлов «[Вектор'а-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц)» ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц)).
 <br>
 **BMP** - графический формат файлов **Windows**.
 
