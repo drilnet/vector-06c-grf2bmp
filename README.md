@@ -26,7 +26,7 @@
 
 [Посмотреть GIF-анимацию](https://github.com/drilnet/vector-06c-grf2bmp/blob/master/GIF%20-%20Bonus/Kharkov%20(People).gif) (эта **GIF**-анимация есть в [Wiki](https://github.com/drilnet/vector-06c-grf2bmp/wiki)).
 <br>
-Данная **GIF**-анимация была сделана из **GRF**-файлов взятых с [Вектор'а-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц) ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц)).
+Данная **GIF**-анимация была сделана из **GRF**-файлов взятых с «[Вектор'а-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц)» ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц)).
 <br>
 **GRF**-файлы смотрите ниже.
 
@@ -55,7 +55,7 @@
 **Инфо по GRF** (эта информация есть в [Wiki](https://github.com/drilnet/vector-06c-grf2bmp/wiki))**:**
 
     Файл 'Info GRF.7z'.
-    Как устроен GRF-файл, плюс программа распаковщик (на ассемблере, для Вектор'а-06Ц).
+    Как устроен GRF-файл, плюс программа распаковщик (на ассемблере, для «Вектор'а-06Ц»).
     
 **Исполняемые файлы:**
 
@@ -81,7 +81,7 @@
 
 <hr>
 
-Различные сообщества ([ZX Spectrum](https://ru.wikipedia.org/wiki/ZX_Spectrum) ([UKR](https://uk.wikipedia.org/wiki/ZX_Spectrum)), [Вектор'а-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц) ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц)), [Специалист](https://ru.wikipedia.org/wiki/Специалист_(компьютер)) и др.) живут [здесь](https://zx-pk.ru/).
+Различные сообщества («[ZX Spectrum](https://ru.wikipedia.org/wiki/ZX_Spectrum)» ([UKR](https://uk.wikipedia.org/wiki/ZX_Spectrum)), «[Вектор'а-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц)» ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц)), «[Специалист](https://ru.wikipedia.org/wiki/Специалист_(компьютер))» и др.) живут [здесь](https://zx-pk.ru/).
 
 <hr>
 
@@ -89,7 +89,7 @@
 
 ![](https://github.com/drilnet/vector-06c-grf2bmp/blob/master/SRC%20C%20-%20FreeBSD%2C%20Linux/Test/TEST2.bmp)
 
-Это изображение контроллера электронного/гибкого диска для [Вектор'а-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц) ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц)).
+Это изображение контроллера электронного/гибкого диска для «[Вектор'а-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц)» ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц)).
 <br>
 **Харьковский вариант**, автор **Терентьев С.В.**
 <br>
