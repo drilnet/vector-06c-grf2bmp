@@ -1,5 +1,5 @@
 # Hobby
-[GITHUB](https://github.com) - Моя записная книжка!
+[GITHUB](https://github.com) - Моя записная книжка (заметки, наброски и т.д. и т.п.)!
 
 <hr>
 
@@ -119,10 +119,10 @@
 **Файловый архив Вектор'а-06Ц:**
 
 ```
-* Системный диск Вектор'а-06Ц с МикроДОС Т-34 (Харьковский вариант).
-* Библиотека ПК (Харьков 1993г.). Выпуск 1. ВЕКТОР-06Ц ИЗНУТРИ. Руководство для начинающих специалистов.
-* Библиотека ПК (Харьков 1993г.). Выпуск 2. Системные программы МикроДОС ПК Вектор-06Ц.
-* Библиотека ПК (Харьков 1993г.). Выпуск 3. Язык программирования ЛС-ПАСКАЛЬ.
+* Системный диск Вектор'а-06Ц с МикроДОС Т-34 (Харьковский вариант)
+* Библиотека ПК (Харьков 1993г.). Выпуск 1. ВЕКТОР-06Ц ИЗНУТРИ. Руководство для начинающих специалистов
+* Библиотека ПК (Харьков 1993г.). Выпуск 2. Системные программы МикроДОС ПК Вектор-06Ц
+* Библиотека ПК (Харьков 1993г.). Выпуск 3. Язык программирования ЛС-ПАСКАЛЬ
 ```
 
 [Перейти в архив Вектор'а-06Ц](https://drilnet.github.io/downloads/vector-06c/)
@@ -131,25 +131,25 @@
 
 **Ещё репозитории автора:**
 
-**Репозиторий:** [Blender 3D. Модель игральной кости (dice).](https://github.com/drilnet/blender3d-dice2)
+**Репозиторий:** [Blender 3D. Модель игральной кости (dice)](https://github.com/drilnet/blender3d-dice2)
 <br>
-**Репозиторий:** [Blender 3D. Модель мотора (motor).](https://github.com/drilnet/blender3d-motor)
+**Репозиторий:** [Blender 3D. Модель мотора (motor)](https://github.com/drilnet/blender3d-motor)
 <br>
-**Репозиторий:** [Blender 3D. Государственная символика Украины (Флаг, Герб).](https://github.com/drilnet/blender3d-ukrainian-symbols)
+**Репозиторий:** [Blender 3D. Государственная символика Украины (Флаг, Герб)](https://github.com/drilnet/blender3d-ukrainian-symbols)
 <br>
-**Репозиторий:** [Blender 3D. Disabled Person (анимированная иконка).](https://github.com/drilnet/blender3d-disabled-person)
+**Репозиторий:** [Blender 3D. Disabled Person (анимированная иконка)](https://github.com/drilnet/blender3d-disabled-person)
 <br>
-**Репозиторий:** [Скрипт, который подписывает цифровые фотографии.](https://github.com/drilnet/programming-perl-signature-images)
-<br>
-<br>
-**Репозиторий:** [Вектор-06Ц. Ожившее кино.](https://github.com/drilnet/vector-06c-kino)
-<br>
-**Репозиторий:** [Вектор-06Ц. Конвертер графических файлов SPR в BMP.](https://github.com/drilnet/vector-06c-spr2bmp)
-<br>
-**Репозиторий:** [Скрипт, который показывает все цвета Вектор'а-06Ц.](https://github.com/drilnet/vector-06c-color256)
+**Репозиторий:** [Скрипт, который подписывает цифровые фотографии](https://github.com/drilnet/programming-perl-signature-images)
 <br>
 <br>
-**Репозиторий:** [RLE кодирование/декодирование своими руками (VRLE8, VRLE16).](https://github.com/drilnet/rle)
+**Репозиторий:** [Вектор-06Ц. Ожившее кино](https://github.com/drilnet/vector-06c-kino)
+<br>
+**Репозиторий:** [Вектор-06Ц. Конвертер графических файлов SPR в BMP](https://github.com/drilnet/vector-06c-spr2bmp)
+<br>
+**Репозиторий:** [Скрипт, который показывает все цвета Вектор'а-06Ц](https://github.com/drilnet/vector-06c-color256)
+<br>
+<br>
+**Репозиторий:** [RLE кодирование/декодирование своими руками (VRLE8, VRLE16)](https://github.com/drilnet/rle)
 
 <hr>
 
