@@ -109,6 +109,7 @@
 
 * Вектор-06Ц в ПЛИС: [https://github.com/svofski/vector06cc](https://github.com/svofski/vector06cc)
 * Картотека ПО для Вектор-06Ц: [http://sensi.org/scalar](http://sensi.org/scalar)
+* TIMSoft (Вектор-06Ц): [http://www.vector06c.fdd5-25.net/index.html](http://www.vector06c.fdd5-25.net/index.html)
 * Блог московского "макрушника" здесь: [http://macrobloger.com/vector-06c](http://macrobloger.com/vector-06c)
 * CP/M для Windows: [http://www.sydneysmith.com/wordpress/cpm-programs/](http://www.sydneysmith.com/wordpress/cpm-programs/)
 * Утилита для работы с образами CP/M дисков: [http://era-cg.su/steinblume/index.php?name=about&lang=ru](http://era-cg.su/steinblume/index.php?name=about&lang=ru)
