@@ -11,7 +11,7 @@
 
 **GRF** - графический формат файлов [Вектор'а-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц) ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц)).
 <br>
-**BMP** - графический формат файлов **Windows**.
+**BMP** - графический формат файлов [Windows](https://ru.wikipedia.org/wiki/Windows) ([UKR](https://uk.wikipedia.org/wiki/Microsoft_Windows)).
 
 Что содержит репозиторий.
 
