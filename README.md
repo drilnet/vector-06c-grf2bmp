@@ -142,6 +142,8 @@
 <br>
 **Репозиторий:** [Blender 3D. Флоппи диск 3.5"](https://github.com/drilnet/blender3d-floppy-disk-35)
 <br>
+**Репозиторий:** [Blender 3D. Логотип для алгоритма VRLE8 и для алгоритма VRLE16](https://github.com/drilnet/blender3d-logovrle8-logovrle16)
+<br>
 **Репозиторий:** [Скрипт, который подписывает цифровые фотографии](https://github.com/drilnet/programming-perl-signature-images)
 <br>
 <br>
