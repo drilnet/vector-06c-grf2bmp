@@ -3,7 +3,7 @@
 
 <hr>
 
-### Вектор-06Ц. Конвертер графических файлов GRF в BMP
+## Вектор-06Ц. Конвертер графических файлов GRF в BMP
 
 Лицензия на программу и скрипт: **GNU GPL V3**.
 
@@ -13,7 +13,7 @@
 <br>
 **BMP** - графический формат файлов [Windows](https://ru.wikipedia.org/wiki/Windows) ([UKR](https://uk.wikipedia.org/wiki/Microsoft_Windows)).
 
-Что содержит репозиторий.
+### Что содержит репозиторий.
 
 **Каталог бонус:**
 
@@ -65,8 +65,12 @@
 
 **Скриншоты работы программы 'grf2bmp':**
 
+```Файл 'grf2bmp_Screenshot_1.png'```
+<br>
 ![](https://github.com/drilnet/vector-06c-grf2bmp/blob/master/grf2bmp_Screenshot_1.png)
 
+```Файл 'grf2bmp_Screenshot_2.png'```
+<br>
 ![](https://github.com/drilnet/vector-06c-grf2bmp/blob/master/grf2bmp_Screenshot_2.png)
 
 **Результат работы программы 'grf2bmp':**
