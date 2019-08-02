@@ -13,7 +13,7 @@
 <br>
 **BMP** - графический формат файлов [Windows](https://ru.wikipedia.org/wiki/Windows) ([UKR](https://uk.wikipedia.org/wiki/Microsoft_Windows)).
 
-### Что содержит репозиторий.
+### Что содержит репозиторий
 
 **Каталог бонус:**
 
