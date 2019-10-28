@@ -151,14 +151,14 @@
 **Репозиторий:** [Blender 3D. Микросхема TEA2025B в 3D](https://github.com/drilnet/blender3d-tea2025b)
 <br>
 <br>
-**Репозиторий:** [Скрипт, который подписывает цифровые фотографии](https://github.com/drilnet/programming-perl-signature-images)
+**Репозиторий:** [Скрипт, который подписывает цифровые фотографии](https://github.com/drilnet/programming-perl-signature-images "Скрипт написан на Perl")
 <br>
 <br>
 **Репозиторий:** [Вектор-06Ц. Ожившее кино](https://github.com/drilnet/vector-06c-kino)
 <br>
 **Репозиторий:** [Вектор-06Ц. Конвертер графических файлов SPR в BMP](https://github.com/drilnet/vector-06c-spr2bmp)
 <br>
-**Репозиторий:** [Скрипт, который показывает все цвета Вектор'а-06Ц](https://github.com/drilnet/vector-06c-color256)
+**Репозиторий:** [Скрипт, который показывает все цвета Вектор'а-06Ц](https://github.com/drilnet/vector-06c-color256 "Скрипт написан на Perl")
 <br>
 <br>
 **Репозиторий:** [RLE кодирование/декодирование своими руками (VRLE8, VRLE16)](https://github.com/drilnet/rle)
