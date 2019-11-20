@@ -103,7 +103,7 @@
 <br>
 **Харьковский вариант** электронного диска и контроллера НГМД был полностью совместим с **Кишинёвским**!
 
-Дополнительная информация (как устроен **GRF**-файл): [Wiki](https://github.com/drilnet/vector-06c-grf2bmp/wiki).
+Дополнительная информация (как устроен **GRF**-файл): [Wiki](https://github.com/drilnet/vector-06c-grf2bmp/wiki)
 
  [Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
 
