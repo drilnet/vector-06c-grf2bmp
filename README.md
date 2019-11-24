@@ -179,19 +179,9 @@
 
 **Полезные ссылки:**
 
-[Правила оформления файла README.MD на GITHUB](https://github.com/OlgaVlasova/markdown-doc/blob/master/README.md#SpecialSymbol)
+[Правила оформления файла README.MD на GitHub](https://github.com/OlgaVlasova/markdown-doc/blob/master/README.md#SpecialSymbol "(C) Olga Vlasova")
 <br>
-[Создаем свой сайт на Github](https://www.youtube.com/watch?v=05nLdIVfSRU)
-
-<hr>
-
-**Ох уж этот русский язык!**
-
-Форум по русскому языку: [https://rusforus.ru](https://rusforus.ru)
-<br>
-Грамматика на PROMT Онлайн: [https://www.translate.ru/grammar](https://www.translate.ru/grammar)
-<br>
-Проверка слова (и др.): [http://new.gramota.ru](http://new.gramota.ru)
+[Создаем свой сайт на GitHub](https://www.youtube.com/watch?v=05nLdIVfSRU "Типичный Верстальщик &bull; Анна Блок")
 
 <hr>
 
