@@ -131,7 +131,7 @@
 * Библиотека ПК (Харьков 1993г.). Выпуск 3. Язык программирования ЛС-ПАСКАЛЬ
 ```
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Перейти в архив Вектор'а-06Ц](https://drilnet.github.io/downloads/vector-06c/downloads.html)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Перейти в архив Вектор'а-06Ц](https://drilnet.github.io/downloads/vector-06c/downloads.html "Системный диск Вектор'а-06Ц. Скриншоты CO. Библиотека ПК")
 
 <hr>
 
