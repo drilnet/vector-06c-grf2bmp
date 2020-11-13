@@ -178,6 +178,8 @@
 <br>
 &nbsp;&nbsp;&nbsp;&bull; [Делитель напряжения на двух резисторах (формулы, расчёты, калькулятор на HTML + JS)](https://github.com/drilnet/electronics/tree/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator) "Формулы, расчёты, калькулятор на HTML + JavaScript")
 <br>
+&nbsp;&nbsp;&nbsp;&bull; [Стабилизированный блок питания на +5В/1А, -5В/0.3A, +12В/0.5А, -12В/0.5А](https://github.com/drilnet/electronics/tree/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V "Трансформаторный (используемые микросхемы: L7805CV, L7905CV, L7812CV, L7912CV)")
+<br>
 &nbsp;&nbsp;&nbsp;&bull; [Ремонт компьютерных колонок Genius SP-G06](https://github.com/drilnet/electronics/tree/master/Speakers%20Genius%20SP-G06 "Что было и Что стало")
  
  **Репозиторий:** [Интеллект. Искусственный интеллект](https://github.com/drilnet/Intelligence "Intelligence. Artificial Intelligence")
