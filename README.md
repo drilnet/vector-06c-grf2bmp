@@ -174,6 +174,8 @@
 &nbsp;&nbsp;&nbsp;&bull; [Усилитель звука на микросхеме
  TEA2025B](https://github.com/drilnet/electronics/tree/master/AUDIO%20AMPLIFIER%20TEA2025B "Схема, печатная плата, собранная плата")
 <br>
+&nbsp;&nbsp;&nbsp;&bull; [Биполярный транзистор в ключевом режиме (формулы, расчёты)](https://github.com/drilnet/electronics/tree/master/Bipolar%20transistor%20in%20key%20mode "Формат файлов: LibreOffice, pdf")
+<br>
 &nbsp;&nbsp;&nbsp;&bull; [Ящик для экспонирования фоторезиста](https://github.com/drilnet/electronics/tree/master/Box%20For%20Exposure%20Photoresist "Ящик из подручного материала")
 <br>
 &nbsp;&nbsp;&nbsp;&bull; [Делитель напряжения на двух резисторах (формулы, расчёты, калькулятор на HTML + JS)](https://github.com/drilnet/electronics/tree/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator) "Формулы, расчёты, калькулятор на HTML + JavaScript")
