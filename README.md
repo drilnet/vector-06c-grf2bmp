@@ -178,6 +178,8 @@
 <br>
 &nbsp;&nbsp;&nbsp;&bull; [Ящик для экспонирования фоторезиста](https://github.com/drilnet/electronics/tree/master/Box%20For%20Exposure%20Photoresist "Ящик из подручного материала")
 <br>
+&nbsp;&nbsp;&nbsp;&bull; [Калькулятор ближайшее стандартное сопротивление (HTML + JS)](https://github.com/drilnet/electronics/tree/master/Calculator%20nearest%20standard%20resistance "Набор резисторов: E24, E48, E96")
+<br>
 &nbsp;&nbsp;&nbsp;&bull; [Делитель напряжения на двух резисторах (формулы, расчёты, калькулятор на HTML + JS)](https://github.com/drilnet/electronics/tree/master/Divider%20by%20R1%20and%20R2%20(formulas%2C%20calculations%2C%20HTML%20%2B%20JavaScript%20calculator) "Формат файлов: LibreOffice (odt, odf), pdf, TinyCAD (dsn), png, html, js")
 <br>
 &nbsp;&nbsp;&nbsp;&bull; [Стабилизированный блок питания +5В/1А, -5В/0.3A, +12В/0.5А, -12В/0.5А](https://github.com/drilnet/electronics/tree/master/Power%20Supply%20%2B5V%2C%20-5V%2C%20%2B12V%2C%20-12V "Трансформаторный (используемые микросхемы: L7805CV, L7905CV, L7812CV, L7912CV)")
